@@ -55,13 +55,13 @@ sorted through them, fixed them up and documented them.
 
 ## Contributed Scripts and Config
 
-| Name                   | Description
-| ---------------------- | ---------------------------------------------
-| Header Cache Benchmark | Script to test the speed of the header cache
-| Keybase                | Keybase Integration
-| Useful programs        | List of useful programs interacting with NeoMutt
-| Vi Keys                | Easy and clean Vi-keys for NeoMutt
-| Vim Syntax             | Vim Syntax File
+| Name                                                            | Description
+| --------------------------------------------------------------- | ---------------------------------------------
+| [Header Cache Benchmark](contrib/hcache-bench/)                 | Script to test the speed of the header cache
+| [Keybase](contrib/keybase/)                                     | Keybase Integration
+| [Useful programs](https://neomutt.org/contrib/useful-programs)  | List of useful programs interacting with NeoMutt
+| [Vi Keys](contrib/vim-keys)                                     | Easy and clean Vi-keys for NeoMutt
+| [Vim Syntax](https://neomutt.org/contrib/vim-syntax)            | Vim Syntax File
 
 ## How to Install NeoMutt?
 
